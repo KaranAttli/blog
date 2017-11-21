@@ -1,0 +1,29 @@
+{
+  "users":[
+    {
+      "userID": "1",
+      "userName":"Karan",
+      "id" :1
+    },
+    {
+      "userID": "2",
+      "userName":"Dilpreet",
+      "id" : 2
+    },
+    {
+      "userID":"3",
+      "userName":"Atwal",
+      "id":3
+    },
+    {
+      "userID": "4",
+      "userName": "don",
+      "id":4
+    },
+    {
+      "userID": "5",
+      "userName": "Hulalala",
+      "id":5
+    }
+  ]
+}

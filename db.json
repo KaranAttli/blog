@@ -1,0 +1,35 @@
+{
+  "blogs": [
+    {
+      "blogTitle": "Technology",
+      "blogContent": "kjdfkjdfknj",
+      "blogCategory": "Technology",
+      "dateCreated": 1511172633667,
+      "blogUserID": 1,
+      "blogRating": 8,
+      "blogUserName": "Karan",
+      "id": 17
+    },
+
+    {
+      "blogTitle": "blog1",
+      "blogContent": "mnfsdfm,df,md" ,
+      "blogCategory": "Sports",
+      "dateCreated": 1511175590937,
+      "blogUserID": 3,
+      "blogRating": 6,
+      "blogUserName": "Atwal",
+      "id": 22
+    },
+    {
+      "blogTitle": "fsdmnfmnsd",
+      "blogContent": "f ndnf snk d",
+      "blogCategory": "Science",
+      "dateCreated": 1511176315010,
+      "blogUserID": 2,
+      "blogRating": 5,
+      "blogUserName": "don",
+      "id": 23
+    }
+  ]
+}
