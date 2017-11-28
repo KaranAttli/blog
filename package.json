@@ -10,6 +10,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "heroku-postbuild": "ng build --aot -prod",
+    "preinstall": "",
     "postinstall": "ng build --aot --target=production"
   },
   "engines": {
